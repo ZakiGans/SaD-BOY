@@ -10,7 +10,7 @@
 > pkg install ffmpeg                              
 > pkg install imagemagick                         
 > git clone https://github.com/ZakiGans/SaD-BOY
-> cd BOT-WA-MR                                    
+> cd SaD-BOY                                  
 > bash install.sh
           Mau reupload script 
           Cantumkan nama saya
