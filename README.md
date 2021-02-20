@@ -252,6 +252,6 @@ Follow The Steps Below!
 ## whatsapp number
 * [`WhatsApp`](wa.me/6283144780782)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
+* [`Saweria`](https://saweria.co/ZakiAhsan)
 * [`Dana : +62895710073737`]
 * [`Pulsa : +6283144780782`]
